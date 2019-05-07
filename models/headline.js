@@ -33,4 +33,4 @@ const HeadlineSchema = new Schema ({
 
 const Headline = mongoose.model("Headline", HeadlineSchema);
 
-module.exports = headline;
+module.exports = Headline;
